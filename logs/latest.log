@@ -53,3 +53,26 @@
 [18:55:16] [Server thread/INFO]: D3rFisch lost connection: Disconnected
 [18:55:16] [Server thread/INFO]: D3rFisch left the game
 [18:56:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:08:32] [User Authenticator #7/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[22:08:47] [Server thread/INFO]: Jaiily[/[2001:9e8:459b:c300:ed36:8d12:7747:535]:59580] logged in with entity id 42823 at (10.5, 77.0, 15.5)
+[22:08:47] [Server thread/INFO]: Jaiily joined the game
+[22:11:17] [Server thread/INFO]: Jaiily has made the advancement [Stone Age]
+[22:11:23] [Server thread/INFO]: Jaiily has made the advancement [Getting an Upgrade]
+[22:19:04] [Server thread/INFO]: Jaiily has made the advancement [Monster Hunter]
+[22:29:24] [Server thread/INFO]: Jaiily has made the advancement [Ice Bucket Challenge]
+[22:30:34] [Server thread/INFO]: Jaiily lost connection: Timed out
+[22:30:34] [Server thread/INFO]: Jaiily left the game
+[22:30:34] [Server thread/WARN]: handleDisconnection() called twice
+[22:30:35] [User Authenticator #8/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[22:30:39] [Server thread/INFO]: Jaiily[/[2001:9e8:459b:c300:ed36:8d12:7747:535]:51079] logged in with entity id 50379 at (-524.9030834085715, 64.0, 81.26138113956873)
+[22:30:39] [Server thread/INFO]: Jaiily joined the game
+[22:31:51] [Server thread/INFO]: Jaiily has made the advancement [Sweet Dreams]
+[22:33:21] [Server thread/INFO]: Jaiily has made the advancement [Acquire Hardware]
+[22:35:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-817, y=62, z=111} is{x=-817, y=60, z=112}
+[22:35:58] [Server thread/INFO]: Jaiily has made the advancement [A Seedy Place]
+[22:38:37] [Server thread/INFO]: Jaiily has made the advancement [Hot Stuff]
+[22:44:32] [Server thread/INFO]: Jaiily has made the advancement [We Need to Go Deeper]
+[22:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
+[22:47:13] [Server thread/INFO]: Jaiily lost connection: Disconnected
+[22:47:13] [Server thread/INFO]: Jaiily left the game
+[22:48:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
