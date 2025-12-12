@@ -1,0 +1,18 @@
+[08:12:29] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[08:12:29] [ServerMain/WARN]: resource-pack-id missing, using default of 96669ccd-6692-39c8-90fe-d4631e1b169f
+[08:12:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[08:12:30] [ServerMain/INFO]: No existing world data, creating new world
+[08:12:30] [ServerMain/INFO]: Loaded 1470 recipes
+[08:12:30] [ServerMain/INFO]: Loaded 1584 advancements
+[08:12:30] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[08:12:30] [Server thread/INFO]: Loading properties
+[08:12:30] [Server thread/INFO]: Default game type: SURVIVAL
+[08:12:30] [Server thread/INFO]: Generating keypair
+[08:12:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:12:31] [Server thread/INFO]: Preparing level "world"
+[08:12:31] [Server thread/INFO]: Selecting global world spawn...
+[08:12:34] [Server thread/INFO]: Loading 0 persistent chunks...
+[08:12:34] [Server thread/INFO]: Preparing spawn area: 100%
+[08:12:34] [Server thread/INFO]: Time elapsed: 2865 ms
+[08:12:34] [Server thread/INFO]: Done (3.124s)! For help, type "help"
+[08:13:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
