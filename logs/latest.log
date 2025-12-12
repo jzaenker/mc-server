@@ -16,3 +16,8 @@
 [08:12:34] [Server thread/INFO]: Time elapsed: 2865 ms
 [08:12:34] [Server thread/INFO]: Done (3.124s)! For help, type "help"
 [08:13:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:21:50] [User Authenticator #1/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[08:21:55] [Server thread/INFO]: D3rFisch[/192.168.178.20:64394] logged in with entity id 31 at (8.5, 79.0, 24.5)
+[08:21:55] [Server thread/INFO]: D3rFisch joined the game
+[08:22:16] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[08:22:16] [Server thread/INFO]: D3rFisch left the game
