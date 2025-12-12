@@ -4,16 +4,16 @@
       "minecraft:birch_leaves": 1
     },
     "minecraft:custom": {
-      "minecraft:sprint_one_cm": 665,
-      "minecraft:time_since_rest": 3571,
-      "minecraft:fall_one_cm": 450,
-      "minecraft:walk_one_cm": 1013,
-      "minecraft:total_world_time": 3571,
-      "minecraft:leave_game": 5,
-      "minecraft:fly_one_cm": 2046,
-      "minecraft:play_time": 3571,
-      "minecraft:jump": 24,
-      "minecraft:time_since_death": 3571
+      "minecraft:sprint_one_cm": 786,
+      "minecraft:time_since_rest": 3820,
+      "minecraft:fall_one_cm": 750,
+      "minecraft:walk_one_cm": 1751,
+      "minecraft:total_world_time": 3820,
+      "minecraft:leave_game": 6,
+      "minecraft:fly_one_cm": 2072,
+      "minecraft:play_time": 3820,
+      "minecraft:jump": 25,
+      "minecraft:time_since_death": 3820
     }
   },
   "DataVersion": 4671
