@@ -25,6 +25,7 @@
       "minecraft:birch_forest": "2025-12-12 22:31:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-12-13 10:32:53 +0000",
       "minecraft:savanna": "2025-12-13 18:38:20 +0000",
+      "minecraft:bamboo_jungle": "2025-12-13 20:31:21 +0000",
       "minecraft:plains": "2025-12-12 22:11:12 +0000",
       "minecraft:warm_ocean": "2025-12-13 10:47:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-12-13 10:45:19 +0000"
@@ -447,11 +448,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-12-13 19:41:08 +0000",
       "minecraft:skeleton": "2025-12-13 11:11:42 +0000",
       "minecraft:piglin": "2025-12-13 14:14:46 +0000",
       "minecraft:magma_cube": "2025-12-13 10:21:06 +0000",
       "minecraft:spider": "2025-12-13 11:43:55 +0000",
       "minecraft:piglin_brute": "2025-12-13 14:38:27 +0000",
+      "minecraft:wither_skeleton": "2025-12-13 19:41:50 +0000",
       "minecraft:zombie": "2025-12-12 22:19:04 +0000",
       "minecraft:creeper": "2025-12-13 17:09:17 +0000",
       "minecraft:drowned": "2025-12-13 11:12:38 +0000",
@@ -615,9 +618,12 @@
       "cooked_porkchop": "2025-12-13 14:37:17 +0000",
       "apple": "2025-12-13 11:12:58 +0000",
       "bread": "2025-12-12 22:37:11 +0000",
+      "golden_apple": "2025-12-13 19:54:59 +0000",
+      "cooked_mutton": "2025-12-13 20:04:58 +0000",
       "cooked_cod": "2025-12-13 11:39:22 +0000",
       "sweet_berries": "2025-12-13 10:28:55 +0000",
       "cooked_beef": "2025-12-13 18:24:08 +0000",
+      "baked_potato": "2025-12-13 20:59:48 +0000",
       "cooked_salmon": "2025-12-13 10:30:43 +0000",
       "golden_carrot": "2025-12-13 11:45:40 +0000",
       "carrot": "2025-12-12 22:27:28 +0000"
@@ -2373,6 +2379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-12-13 20:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-12-13 17:52:31 +0000"
@@ -2391,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-12-13 20:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-12-13 17:52:31 +0000"
@@ -2400,6 +2418,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-12-13 17:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-13 19:46:06 +0000"
     },
     "done": true
   },
@@ -2415,6 +2439,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-12-13 19:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-12-13 16:14:29 +0000"
@@ -2424,6 +2454,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-12-13 16:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
     },
     "done": true
   },
@@ -2439,9 +2475,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-12-13 16:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-12-13 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-12-13 19:43:16 +0000"
     },
     "done": true
   },
@@ -2466,6 +2520,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-12-13 16:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
     },
     "done": true
   },
@@ -2505,6 +2565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-12-13 19:43:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-12-13 16:59:38 +0000"
@@ -2535,6 +2601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-12-13 16:22:01 +0000"
@@ -2553,9 +2625,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-12-13 20:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-12-13 16:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
     },
     "done": true
   },
@@ -2631,6 +2715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-12-13 16:33:29 +0000"
@@ -2697,6 +2787,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-13 19:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-12-13 16:33:29 +0000"
@@ -2709,9 +2811,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-12-13 19:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-12-13 16:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-12-13 20:50:26 +0000"
     },
     "done": true
   },
@@ -2721,9 +2841,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-12-13 19:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-13 19:46:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-12-13 16:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-12-13 19:46:24 +0000"
     },
     "done": true
   },
@@ -2736,6 +2874,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-12-13 17:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-13 19:40:59 +0000"
     },
     "done": true
   },
@@ -2754,6 +2898,12 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-12-13 17:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-13 19:43:12 +0000"
     },
     "done": true
   },
