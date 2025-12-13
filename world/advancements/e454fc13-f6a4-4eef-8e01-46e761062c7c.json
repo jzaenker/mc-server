@@ -18,6 +18,7 @@
       "minecraft:stony_shore": "2025-12-12 22:11:18 +0000",
       "minecraft:frozen_peaks": "2025-12-12 22:17:03 +0000",
       "minecraft:deep_cold_ocean": "2025-12-13 10:27:39 +0000",
+      "minecraft:old_growth_birch_forest": "2025-12-13 17:49:39 +0000",
       "minecraft:ocean": "2025-12-12 22:14:03 +0000",
       "minecraft:jungle": "2025-12-13 14:20:36 +0000",
       "minecraft:grove": "2025-12-12 22:16:52 +0000",
@@ -615,6 +616,7 @@
       "bread": "2025-12-12 22:37:11 +0000",
       "cooked_cod": "2025-12-13 11:39:22 +0000",
       "sweet_berries": "2025-12-13 10:28:55 +0000",
+      "cooked_beef": "2025-12-13 18:24:08 +0000",
       "cooked_salmon": "2025-12-13 10:30:43 +0000",
       "golden_carrot": "2025-12-13 11:45:40 +0000",
       "carrot": "2025-12-12 22:27:28 +0000"
@@ -2370,6 +2372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-12-13 17:52:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-12-13 16:59:16 +0000"
@@ -2379,6 +2387,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-12-13 16:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-12-13 17:52:31 +0000"
     },
     "done": true
   },
@@ -2526,6 +2540,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-12-13 18:11:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-12-13 16:59:38 +0000"
@@ -2562,6 +2582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-13 18:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-12-13 16:33:29 +0000"
@@ -2585,6 +2611,12 @@
       "has_white_wool": "2025-12-13 16:03:20 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-12-13 18:11:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {

@@ -31,3 +31,11 @@
 [16:02:30] [Server thread/INFO]: Jaiily[/[2001:9e8:45a6:6500:6029:bd95:8b4f:c06f]:54494] logged in with entity id 105765 at (638.3885298547997, 68.0, -2014.13910491189)
 [16:02:30] [Server thread/INFO]: Jaiily joined the game
 [16:22:57] [Server thread/INFO]: Jaiily was slain by Piglin Brute
+[17:39:29] [Server thread/INFO]: Villager dcx['Villager'/145889, l='ServerLevel[world]', x=-792.30, y=63.00, z=184.47] died, message: 'Villager was slain by Zombie'
+[17:39:36] [Server thread/INFO]: Villager dcx['Villager'/145890, l='ServerLevel[world]', x=-792.30, y=63.00, z=184.70] died, message: 'Villager was slain by Zombie Villager'
+[17:39:36] [Server thread/INFO]: Villager dcx['Villager'/145888, l='ServerLevel[world]', x=-795.70, y=63.00, z=184.30] died, message: 'Villager was slain by Zombie'
+[17:39:42] [Server thread/INFO]: Villager dcx['Villager'/145887, l='ServerLevel[world]', x=-792.51, y=63.00, z=184.70] died, message: 'Villager was slain by Zombie'
+[18:00:03] [Server thread/INFO]: Villager dcx['Mason'/159437, l='ServerLevel[world]', x=1091.67, y=63.94, z=-1650.51] died, message: 'Mason tried to swim in lava'
+[18:08:45] [Server thread/INFO]: Villager dcx['Villager'/145795, l='ServerLevel[world]', x=1099.70, y=64.00, z=-1655.70] died, message: 'Villager was slain by Zombie'
+[18:08:52] [Server thread/INFO]: Villager dcx['Farmer'/159436, l='ServerLevel[world]', x=1099.50, y=64.00, z=-1655.70] died, message: 'Farmer was slain by Zombie'
+[18:11:47] [Server thread/INFO]: Jaiily has made the advancement [The Parrots and the Bats]
