@@ -47,3 +47,6 @@
 [22:26:59] [User Authenticator #13/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
 [22:27:01] [Server thread/INFO]: D3rFisch[/192.168.178.20:63239] logged in with entity id 239066 at (909.6685378288547, 70.875, 687.3016057765153)
 [22:27:01] [Server thread/INFO]: D3rFisch joined the game
+[23:18:54] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[23:18:54] [Server thread/INFO]: D3rFisch left the game
+[23:19:54] [Server thread/INFO]: Server empty for 60 seconds, pausing

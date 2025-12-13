@@ -12,6 +12,7 @@
       "minecraft:dark_forest": "2025-12-12 16:40:29 +0000",
       "minecraft:stony_peaks": "2025-12-12 16:34:51 +0000",
       "minecraft:forest": "2025-12-12 08:21:56 +0000",
+      "minecraft:mangrove_swamp": "2025-12-13 22:53:37 +0000",
       "minecraft:sparse_jungle": "2025-12-12 15:15:05 +0000",
       "minecraft:river": "2025-12-12 15:13:37 +0000",
       "minecraft:stony_shore": "2025-12-12 15:01:22 +0000",
@@ -22,6 +23,8 @@
       "minecraft:grove": "2025-12-12 16:42:42 +0000",
       "minecraft:birch_forest": "2025-12-12 15:06:59 +0000",
       "minecraft:savanna": "2025-12-12 16:22:35 +0000",
+      "minecraft:wooded_badlands": "2025-12-13 22:46:50 +0000",
+      "minecraft:windswept_savanna": "2025-12-13 22:52:38 +0000",
       "minecraft:plains": "2025-12-12 15:01:20 +0000",
       "minecraft:pale_garden": "2025-12-12 16:42:49 +0000"
     },
@@ -1014,6 +1017,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-12-12 18:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-12-13 22:48:39 +0000"
     },
     "done": true
   },
