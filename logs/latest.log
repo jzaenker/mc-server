@@ -70,3 +70,9 @@
 [09:41:02] [Server thread/INFO]: D3rFisch lost connection: Disconnected
 [09:41:02] [Server thread/INFO]: D3rFisch left the game
 [09:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[12:59:28] [User Authenticator #17/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[12:59:30] [Server thread/INFO]: D3rFisch[/192.168.178.20:52765] logged in with entity id 300862 at (982.3000000119209, 73.0, 1537.8350548232509)
+[12:59:30] [Server thread/INFO]: D3rFisch joined the game
+[12:59:41] [Server thread/INFO]: <D3rFisch> hello
+[13:14:53] [Server thread/INFO]: D3rFisch has made the advancement [Isn't It Iron Pick]
+[13:23:55] [Server thread/INFO]: D3rFisch has made the advancement [Diamonds!]
