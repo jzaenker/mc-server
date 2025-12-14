@@ -1,52 +1,72 @@
-[10:20:28] [User Authenticator #9/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
-[10:20:32] [Server thread/INFO]: Jaiily[/[2001:9e8:45a6:6500:6029:bd95:8b4f:c06f]:55974] logged in with entity id 55049 at (-45.30000001192093, 69.0, 56.69999998807907)
-[10:20:32] [Server thread/INFO]: Jaiily joined the game
-[10:23:04] [Server thread/INFO]: Jaiily was slain by Zombie
-[10:24:12] [Server thread/INFO]: Jaiily has made the advancement [Isn't It Iron Pick]
-[10:29:29] [Server thread/INFO]: Jaiily has made the advancement [Diamonds!]
-[10:31:01] [Server thread/WARN]: Oak Boat (vehicle of Jaiily) moved wrongly! 0.5348262539714597
-[10:33:00] [Server thread/INFO]: Jaiily has made the advancement [Suit Up]
-[11:11:39] [Server thread/INFO]: Jaiily has made the advancement [Not Today, Thank You]
-[11:26:53] [Server thread/INFO]: Jaiily was shot by Skeleton
-[11:42:18] [Server thread/INFO]: Jaiily lost connection: Disconnected
-[11:42:18] [Server thread/INFO]: Jaiily left the game
-[11:43:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:43:21] [User Authenticator #10/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
-[11:43:25] [Server thread/INFO]: Jaiily[/[2001:9e8:45a6:6500:6029:bd95:8b4f:c06f]:57939] logged in with entity id 90760 at (466.69999998807907, -52.0, -1304.8493599898854)
-[11:43:25] [Server thread/INFO]: Jaiily joined the game
-[12:03:54] [Server thread/INFO]: Jaiily lost connection: Disconnected
-[12:03:54] [Server thread/INFO]: Jaiily left the game
-[12:04:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:08:40] [User Authenticator #11/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
-[14:08:44] [Server thread/INFO]: Jaiily[/[2001:9e8:45a6:6500:6029:bd95:8b4f:c06f]:53459] logged in with entity id 94770 at (1016.4642326027058, 68.0, -1624.699999988079)
-[14:08:44] [Server thread/INFO]: Jaiily joined the game
-[14:36:00] [Server thread/INFO]: Jaiily has made the advancement [Those Were the Days]
-[14:37:36] [Server thread/INFO]: Jaiily has made the advancement [War Pigs]
-[14:37:39] [Server thread/INFO]: Jaiily has made the advancement [Hidden in the Depths]
-[14:51:43] [Server thread/INFO]: Jaiily has completed the challenge [Return to Sender]
-[14:58:35] [Server thread/INFO]: Jaiily lost connection: Disconnected
-[14:58:35] [Server thread/INFO]: Jaiily left the game
-[14:59:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:02:26] [User Authenticator #12/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
-[16:02:30] [Server thread/INFO]: Jaiily[/[2001:9e8:45a6:6500:6029:bd95:8b4f:c06f]:54494] logged in with entity id 105765 at (638.3885298547997, 68.0, -2014.13910491189)
-[16:02:30] [Server thread/INFO]: Jaiily joined the game
-[16:22:57] [Server thread/INFO]: Jaiily was slain by Piglin Brute
-[17:39:29] [Server thread/INFO]: Villager dcx['Villager'/145889, l='ServerLevel[world]', x=-792.30, y=63.00, z=184.47] died, message: 'Villager was slain by Zombie'
-[17:39:36] [Server thread/INFO]: Villager dcx['Villager'/145890, l='ServerLevel[world]', x=-792.30, y=63.00, z=184.70] died, message: 'Villager was slain by Zombie Villager'
-[17:39:36] [Server thread/INFO]: Villager dcx['Villager'/145888, l='ServerLevel[world]', x=-795.70, y=63.00, z=184.30] died, message: 'Villager was slain by Zombie'
-[17:39:42] [Server thread/INFO]: Villager dcx['Villager'/145887, l='ServerLevel[world]', x=-792.51, y=63.00, z=184.70] died, message: 'Villager was slain by Zombie'
-[18:00:03] [Server thread/INFO]: Villager dcx['Mason'/159437, l='ServerLevel[world]', x=1091.67, y=63.94, z=-1650.51] died, message: 'Mason tried to swim in lava'
-[18:08:45] [Server thread/INFO]: Villager dcx['Villager'/145795, l='ServerLevel[world]', x=1099.70, y=64.00, z=-1655.70] died, message: 'Villager was slain by Zombie'
-[18:08:52] [Server thread/INFO]: Villager dcx['Farmer'/159436, l='ServerLevel[world]', x=1099.50, y=64.00, z=-1655.70] died, message: 'Farmer was slain by Zombie'
-[18:11:47] [Server thread/INFO]: Jaiily has made the advancement [The Parrots and the Bats]
-[19:41:00] [Server thread/INFO]: Jaiily has made the advancement [A Terrible Fortress]
-[19:43:12] [Server thread/INFO]: Jaiily has made the advancement [Into Fire]
-[21:48:51] [Server thread/INFO]: Jaiily lost connection: Disconnected
-[21:48:51] [Server thread/INFO]: Jaiily left the game
-[21:49:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:26:59] [User Authenticator #13/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
-[22:27:01] [Server thread/INFO]: D3rFisch[/192.168.178.20:63239] logged in with entity id 239066 at (909.6685378288547, 70.875, 687.3016057765153)
-[22:27:01] [Server thread/INFO]: D3rFisch joined the game
-[23:18:54] [Server thread/INFO]: D3rFisch lost connection: Disconnected
-[23:18:54] [Server thread/INFO]: D3rFisch left the game
-[23:19:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:37:27] [User Authenticator #14/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[08:37:29] [Server thread/INFO]: D3rFisch[/192.168.178.20:57367] logged in with entity id 254817 at (920.7217642473837, 103.0, 1563.0270289556859)
+[08:37:29] [Server thread/INFO]: D3rFisch joined the game
+[08:58:35] [User Authenticator #15/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[08:58:39] [Server thread/INFO]: Jaiily[/[2001:9e8:45b2:1200:85c1:9b66:248a:ea9d]:64489] logged in with entity id 257650 at (1020.7007056834966, 70.5, -1579.5492146579743)
+[08:58:39] [Server thread/INFO]: Jaiily joined the game
+[08:59:03] [Server thread/INFO]: <Jaiily> HELP HIER IST ALLES DUNKEL XD
+[08:59:13] [Server thread/INFO]: <D3rFisch> öh es ist nacht xD
+[08:59:23] [Server thread/INFO]: <D3rFisch> und ich hab hier kein bett lol
+[08:59:31] [Server thread/INFO]: <Jaiily> fck xD
+[08:59:33] [Server thread/INFO]: <D3rFisch> du ?
+[08:59:38] [Server thread/INFO]: <D3rFisch> dann mach ich reconnect
+[08:59:44] [Server thread/INFO]: <Jaiily> ah ja
+[08:59:45] [Server thread/INFO]: <Jaiily> ich liege
+[08:59:47] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[08:59:47] [Server thread/INFO]: D3rFisch left the game
+[08:59:57] [User Authenticator #16/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[08:59:59] [Server thread/INFO]: D3rFisch[/192.168.178.20:62303] logged in with entity id 258128 at (918.5540554571606, 95.0, 1517.564244100914)
+[08:59:59] [Server thread/INFO]: D3rFisch joined the game
+[09:00:04] [Server thread/INFO]: <D3rFisch> perfekt
+[09:00:22] [Server thread/INFO]: <Jaiily> ey ich weiß safe was das Problem ist kinda
+[09:00:28] [Server thread/INFO]: <Jaiily> aber nicht wie man es fixen kann
+[09:00:37] [Server thread/INFO]: <D3rFisch> was denn?
+[09:00:53] [Server thread/INFO]: <Jaiily> Die wollen glaub ich nicht in ihre Betten weil die ein anderes gespeichert haben
+[09:00:58] [Server thread/INFO]: <Jaiily> aber hier sind keine anderen
+[09:01:16] [Server thread/INFO]: <D3rFisch> ööh hast du die entführt und die wollen zu ihren ursprünglichen betten oder so?
+[09:01:32] [Server thread/INFO]: <Jaiily> vllt aber die sind up to 3k Blöcke entfernt xD
+[09:01:39] [Server thread/INFO]: <D3rFisch> mhh
+[09:01:43] [Server thread/INFO]: <Jaiily> Hab auch alle workstations abgebaut
+[09:01:53] [Server thread/INFO]: <D3rFisch> hab ich noch nie gehabt das das ein problem wäre
+[09:02:35] [Server thread/INFO]: <Jaiily> bin btw bei 1000 -1600
+[09:02:37] [Server thread/INFO]: <D3rFisch> ist mein ich auch eigentlich egal, hauptsache bei dir sind paar betten dann sollte das ja ein neues dorf sein und das braucht ja dann mehr leute
+[09:02:44] [Server thread/INFO]: <Jaiily> also so 3k von dir weg
+[09:03:02] [Server thread/INFO]: <Jaiily> Die müssen im Bett gelegen haben damit die Golems spawnen können glaub ich
+[09:03:21] [Server thread/INFO]: <D3rFisch> ah ja für golems ja
+[09:03:26] [Server thread/INFO]: <Jaiily> JA DAS ERSTE KIND
+[09:03:39] [Server thread/INFO]: <D3rFisch> da müssen 3 stück sein die jeweils ein bett haben xD
+[09:03:47] [Server thread/INFO]: <Jaiily> ja 3 villager und betten hab ich da auch
+[09:03:52] [Server thread/INFO]: <D3rFisch> ah perfekt das gibt nen graden nether highway zu dir
+[09:03:53] [Server thread/INFO]: <Jaiily> aber letzte nacht wollte sich nur einer hinlegen iwie
+[09:04:06] [Server thread/INFO]: <D3rFisch> und das dorf wo ich meine villager entführe liegt auch auf der selben linie perfekt
+[09:04:28] [Server thread/INFO]: <Jaiily> vllt sollten wir dann so in der spawnregion eine gemeinsame trading hall einbauen oder so?
+[09:05:06] [Server thread/INFO]: <Jaiily> Also ich bin gleich noch zum zocken verabredet sonst hätt ich gesagt lass ma dc xD
+[09:05:30] [Server thread/INFO]: <D3rFisch> ich bin gleich auch wieder weg, ich plane gerade nur zwichendurch meine base xD
+[09:05:39] [Server thread/INFO]: <Jaiily> perfekt xD
+[09:05:46] [Server thread/INFO]: <Jaiily> dann schaffen wir das vllt wann anders
+[09:09:43] [Server thread/INFO]: <D3rFisch> bestiiimmt
+[09:09:56] [Server thread/INFO]: <Jaiily> 2 LIEGEN
+[09:10:04] [Server thread/INFO]: <D3rFisch> weiß gerade aber auch garnicht wo genau der spawn war xD
+[09:10:23] [Server thread/INFO]: <Jaiily> -900 0 ca
+[09:10:28] [Server thread/INFO]: <Jaiily> hab da iwo nen Tod
+[09:18:09] [Server thread/INFO]: <Jaiily> ich kack ab
+[09:18:30] [Server thread/INFO]: <D3rFisch> wollen immer noch nicht?
+[09:18:43] [Server thread/INFO]: <Jaiily> doch
+[09:18:49] [Server thread/INFO]: <Jaiily> aber der Weg dahin
+[09:19:05] [Server thread/INFO]: <Jaiily> Also die können betten iwie bis zu 90m finden oder so ein Mist
+[09:19:23] [Server thread/INFO]: <Jaiily> dachte vllt is der beim Transport zu nah an den Breeder gekommen und die löschen vllt erst bei 150 Blöcken das Bett wieder ausm Gehirn
+[09:19:37] [Server thread/INFO]: <Jaiily> Also wollte ich den wieder in ein Boot jagen und einfach mal von meiner Insel weg fahren
+[09:19:47] [Server thread/INFO]: <Jaiily> Hab verkackt den einzufangen und auf einmal leuchtet er grün
+[09:20:03] [Server thread/INFO]: <Jaiily> Wollt dann gucken wo der hin wollte... ins fucking Bett das er die ganze Zeit nehmen soll
+[09:20:29] [Server thread/INFO]: <D3rFisch> ähh ja irgendwie 64 blöcke um das village center aber das kann sich erweitern wenn der innere village bereich durch poi vergrößert wird oder so
+[09:20:37] [Server thread/INFO]: <D3rFisch> das ist soo komisch kompliziert xD
+[09:21:00] [Server thread/INFO]: <Jaiily> Naja am Ende war er einfach blind
+[09:21:25] [Server thread/INFO]: <Jaiily> Jz hab ich Pfolterkammer + Puff
+[09:21:30] [Server thread/INFO]: <Jaiily> fehlt nurnoch Sklaverei
+[09:21:37] [Server thread/INFO]: <D3rFisch> ja alos klingt so wenn du ihn ja garnicht weg und wieder hinbringen musstest
+[09:21:43] [Server thread/INFO]: <D3rFisch> xD
+[09:21:48] [Server thread/INFO]: <Jaiily> Ja nö iwie nicht xD
+[09:39:04] [Server thread/INFO]: D3rFisch has made the advancement [Acquire Hardware]
+[09:41:02] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[09:41:02] [Server thread/INFO]: D3rFisch left the game
+[09:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
