@@ -32,3 +32,14 @@
 [11:09:44] [User Authenticator #27/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
 [11:09:47] [Server thread/INFO]: D3rFisch[/192.168.178.20:57467] logged in with entity id 505373 at (927.6579795698651, 85.0, 1531.787350693275)
 [11:09:47] [Server thread/INFO]: D3rFisch joined the game
+[12:10:08] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[12:10:08] [Server thread/INFO]: D3rFisch left the game
+[12:10:12] [User Authenticator #28/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[12:10:14] [Server thread/INFO]: D3rFisch[/192.168.178.20:63342] logged in with entity id 529062 at (905.3028937814862, 83.0, 1534.6252850955955)
+[12:10:14] [Server thread/INFO]: D3rFisch joined the game
+[12:20:08] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[12:20:08] [Server thread/INFO]: D3rFisch left the game
+[12:31:19] [User Authenticator #29/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[12:31:21] [Server thread/INFO]: D3rFisch[/192.168.178.20:57791] logged in with entity id 534543 at (927.6116636044859, 85.0, 1531.5236848436825)
+[12:31:21] [Server thread/INFO]: D3rFisch joined the game
+[12:33:44] [Server thread/INFO]: Villager dcx['Villager'/534531, l='ServerLevel[world]', x=874.85, y=106.00, z=1517.30] died, message: 'Villager was slain by Zombie'
