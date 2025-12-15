@@ -43,3 +43,5 @@
 [12:31:21] [Server thread/INFO]: D3rFisch[/192.168.178.20:57791] logged in with entity id 534543 at (927.6116636044859, 85.0, 1531.5236848436825)
 [12:31:21] [Server thread/INFO]: D3rFisch joined the game
 [12:33:44] [Server thread/INFO]: Villager dcx['Villager'/534531, l='ServerLevel[world]', x=874.85, y=106.00, z=1517.30] died, message: 'Villager was slain by Zombie'
+[13:16:35] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[13:16:35] [Server thread/INFO]: D3rFisch left the game
