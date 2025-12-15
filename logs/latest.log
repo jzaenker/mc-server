@@ -29,3 +29,6 @@
 [08:02:49] [Server thread/INFO]: Villager dcx['Villager'/457193, l='ServerLevel[world]', x=1102.70, y=64.35, z=-1650.82] died, message: 'Villager was squished too much'
 [08:02:53] [Server thread/INFO]: Villager dcx['Villager'/457171, l='ServerLevel[world]', x=1102.70, y=63.10, z=-1650.30] died, message: 'Villager was squished too much'
 [08:17:03] [Server thread/INFO]: Villager dcx['Villager'/457170, l='ServerLevel[world]', x=1102.21, y=63.67, z=-1650.88] died, message: 'Villager was squished too much'
+[11:09:44] [User Authenticator #27/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[11:09:47] [Server thread/INFO]: D3rFisch[/192.168.178.20:57467] logged in with entity id 505373 at (927.6579795698651, 85.0, 1531.787350693275)
+[11:09:47] [Server thread/INFO]: D3rFisch joined the game
