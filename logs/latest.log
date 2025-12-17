@@ -12,3 +12,8 @@
 [09:29:50] [User Authenticator #32/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
 [09:30:00] [Server thread/INFO]: Jaiily[/[2001:9e8:4594:1d00:6c02:9784:90bd:d345]:63098] logged in with entity id 600658 at (1011.8832328059115, 69.0, -1609.7761276706967)
 [09:30:00] [Server thread/INFO]: Jaiily joined the game
+[09:43:32] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[09:43:32] [Server thread/INFO]: D3rFisch left the game
+[09:48:31] [User Authenticator #33/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[09:48:33] [Server thread/INFO]: D3rFisch[/192.168.178.20:61465] logged in with entity id 607371 at (928.0707990326296, 86.0, 1555.1834647810924)
+[09:48:33] [Server thread/INFO]: D3rFisch joined the game
