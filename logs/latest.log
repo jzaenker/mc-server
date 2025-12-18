@@ -22,3 +22,11 @@
 [14:14:23] [User Authenticator #37/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
 [14:14:26] [Server thread/INFO]: D3rFisch[/192.168.178.20:57742] logged in with entity id 649855 at (907.0684547817447, 69.0, 1455.7407619960925)
 [14:14:26] [Server thread/INFO]: D3rFisch joined the game
+[15:47:18] [Server thread/INFO]: Villager dcx['Villager'/662788, l='ServerLevel[world]', x=885.34, y=91.00, z=1507.84] died, message: 'Villager was slain by Zombie'
+[15:57:37] [Server thread/INFO]: Villager dcx['Farmer'/649970, l='ServerLevel[world]', x=918.96, y=83.50, z=1549.70] died, message: 'Farmer was slain by Zombie'
+[15:58:41] [Server thread/INFO]: Villager dcx['Farmer'/649893, l='ServerLevel[world]', x=910.30, y=73.00, z=1477.52] died, message: 'Farmer was slain by Zombie'
+[15:58:54] [Server thread/INFO]: Villager dcx['Villager'/670418, l='ServerLevel[world]', x=872.15, y=95.00, z=1530.34] died, message: 'Villager was slain by Zombie'
+[16:05:42] [Server thread/INFO]: Villager dcx['Armorer'/649963, l='ServerLevel[world]', x=892.71, y=87.00, z=1485.51] died, message: 'Armorer was slain by Zombie'
+[16:09:55] [Server thread/INFO]: Villager dcx['Villager'/673123, l='ServerLevel[world]', x=922.34, y=79.00, z=1498.52] died, message: 'Villager was slain by Zombie Villager'
+[16:16:58] [Server thread/INFO]: Villager dcx['Farmer'/649857, l='ServerLevel[world]', x=852.70, y=77.02, z=1467.13] died, message: 'Farmer was slain by Zombie'
+[16:17:07] [Server thread/INFO]: Villager dcx['Armorer'/649858, l='ServerLevel[world]', x=841.93, y=74.56, z=1477.09] died, message: 'Armorer was slain by Zombie'
