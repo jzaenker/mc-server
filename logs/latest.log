@@ -30,3 +30,9 @@
 [16:09:55] [Server thread/INFO]: Villager dcx['Villager'/673123, l='ServerLevel[world]', x=922.34, y=79.00, z=1498.52] died, message: 'Villager was slain by Zombie Villager'
 [16:16:58] [Server thread/INFO]: Villager dcx['Farmer'/649857, l='ServerLevel[world]', x=852.70, y=77.02, z=1467.13] died, message: 'Farmer was slain by Zombie'
 [16:17:07] [Server thread/INFO]: Villager dcx['Armorer'/649858, l='ServerLevel[world]', x=841.93, y=74.56, z=1477.09] died, message: 'Armorer was slain by Zombie'
+[16:58:52] [Server thread/INFO]: Villager dcx['Farmer'/652820, l='ServerLevel[world]', x=927.96, y=62.94, z=1445.41] died, message: 'Farmer was slain by Zombie'
+[17:02:37] [Server thread/INFO]: Villager dcx['Farmer'/649949, l='ServerLevel[world]', x=916.64, y=93.80, z=1564.70] died, message: 'Farmer was slain by Zombie'
+[17:04:26] [Server thread/INFO]: Villager dcx['Farmer'/675666, l='ServerLevel[world]', x=874.33, y=106.00, z=1517.70] died, message: 'Farmer was slain by Zombie'
+[17:35:56] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[17:35:56] [Server thread/INFO]: D3rFisch left the game
+[17:36:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
