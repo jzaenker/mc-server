@@ -1,38 +1,38 @@
-[13:30:48] [User Authenticator #34/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
-[13:30:51] [Server thread/INFO]: D3rFisch[/192.168.178.20:64859] logged in with entity id 638586 at (918.1782354228203, 83.0, 1532.0296176949432)
-[13:30:51] [Server thread/INFO]: D3rFisch joined the game
-[13:32:57] [Server thread/INFO]: D3rFisch lost connection: Disconnected
-[13:32:57] [Server thread/INFO]: D3rFisch left the game
-[13:33:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:34:57] [User Authenticator #35/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
-[13:34:59] [Server thread/INFO]: D3rFisch[/192.168.178.20:54196] logged in with entity id 639251 at (929.3276508297906, 85.0, 1532.1437676027983)
-[13:34:59] [Server thread/INFO]: D3rFisch joined the game
-[13:36:08] [Server thread/INFO]: D3rFisch lost connection: Disconnected
-[13:36:08] [Server thread/INFO]: D3rFisch left the game
-[13:36:46] [User Authenticator #36/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
-[13:36:49] [Server thread/INFO]: D3rFisch[/192.168.178.20:55517] logged in with entity id 639896 at (895.0783565324972, 83.9375, 1523.354027516127)
-[13:36:49] [Server thread/INFO]: D3rFisch joined the game
-[13:50:04] [Server thread/INFO]: D3rFisch has made the advancement [The Parrots and the Bats]
-[13:56:21] [Server thread/INFO]: Villager dcx['Farmer'/643001, l='ServerLevel[world]', x=874.18, y=106.00, z=1517.39] died, message: 'Farmer was slain by Zombie'
-[14:09:37] [Server thread/INFO]: Villager dcx['Mason'/642974, l='ServerLevel[world]', x=927.77, y=83.83, z=1533.77] died, message: 'Mason was slain by D3rFisch'
-[14:09:49] [Server thread/INFO]: Villager dcx['Villager'/646597, l='ServerLevel[world]', x=914.08, y=83.00, z=1542.50] died, message: 'Villager was slain by D3rFisch'
-[14:09:55] [Server thread/INFO]: Villager dcx['Farmer'/642964, l='ServerLevel[world]', x=891.99, y=84.00, z=1520.63] died, message: 'Farmer was slain by D3rFisch'
-[14:14:19] [Server thread/INFO]: D3rFisch lost connection: Disconnected
-[14:14:19] [Server thread/INFO]: D3rFisch left the game
-[14:14:23] [User Authenticator #37/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
-[14:14:26] [Server thread/INFO]: D3rFisch[/192.168.178.20:57742] logged in with entity id 649855 at (907.0684547817447, 69.0, 1455.7407619960925)
-[14:14:26] [Server thread/INFO]: D3rFisch joined the game
-[15:47:18] [Server thread/INFO]: Villager dcx['Villager'/662788, l='ServerLevel[world]', x=885.34, y=91.00, z=1507.84] died, message: 'Villager was slain by Zombie'
-[15:57:37] [Server thread/INFO]: Villager dcx['Farmer'/649970, l='ServerLevel[world]', x=918.96, y=83.50, z=1549.70] died, message: 'Farmer was slain by Zombie'
-[15:58:41] [Server thread/INFO]: Villager dcx['Farmer'/649893, l='ServerLevel[world]', x=910.30, y=73.00, z=1477.52] died, message: 'Farmer was slain by Zombie'
-[15:58:54] [Server thread/INFO]: Villager dcx['Villager'/670418, l='ServerLevel[world]', x=872.15, y=95.00, z=1530.34] died, message: 'Villager was slain by Zombie'
-[16:05:42] [Server thread/INFO]: Villager dcx['Armorer'/649963, l='ServerLevel[world]', x=892.71, y=87.00, z=1485.51] died, message: 'Armorer was slain by Zombie'
-[16:09:55] [Server thread/INFO]: Villager dcx['Villager'/673123, l='ServerLevel[world]', x=922.34, y=79.00, z=1498.52] died, message: 'Villager was slain by Zombie Villager'
-[16:16:58] [Server thread/INFO]: Villager dcx['Farmer'/649857, l='ServerLevel[world]', x=852.70, y=77.02, z=1467.13] died, message: 'Farmer was slain by Zombie'
-[16:17:07] [Server thread/INFO]: Villager dcx['Armorer'/649858, l='ServerLevel[world]', x=841.93, y=74.56, z=1477.09] died, message: 'Armorer was slain by Zombie'
-[16:58:52] [Server thread/INFO]: Villager dcx['Farmer'/652820, l='ServerLevel[world]', x=927.96, y=62.94, z=1445.41] died, message: 'Farmer was slain by Zombie'
-[17:02:37] [Server thread/INFO]: Villager dcx['Farmer'/649949, l='ServerLevel[world]', x=916.64, y=93.80, z=1564.70] died, message: 'Farmer was slain by Zombie'
-[17:04:26] [Server thread/INFO]: Villager dcx['Farmer'/675666, l='ServerLevel[world]', x=874.33, y=106.00, z=1517.70] died, message: 'Farmer was slain by Zombie'
-[17:35:56] [Server thread/INFO]: D3rFisch lost connection: Disconnected
-[17:35:56] [Server thread/INFO]: D3rFisch left the game
-[17:36:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:48:54] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[17:48:54] [ServerMain/WARN]: resource-pack-id missing, using default of 96669ccd-6692-39c8-90fe-d4631e1b169f
+[17:48:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:48:56] [ServerMain/INFO]: Loaded 1470 recipes
+[17:48:56] [ServerMain/INFO]: Loaded 1584 advancements
+[17:48:56] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[17:48:56] [Server thread/INFO]: Loading properties
+[17:48:56] [Server thread/INFO]: Default game type: SURVIVAL
+[17:48:56] [Server thread/INFO]: Generating keypair
+[17:48:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:48:56] [Server thread/INFO]: Preparing level "world"
+[17:48:56] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:48:56] [Server thread/INFO]: Preparing spawn area: 100%
+[17:48:56] [Server thread/INFO]: Time elapsed: 17 ms
+[17:48:56] [Server thread/INFO]: Done (0.320s)! For help, type "help"
+[17:49:02] [User Authenticator #1/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[17:49:04] [Server thread/INFO]: D3rFisch[/192.168.178.20:58385] logged in with entity id 68 at (926.7928402410599, 62.9375, 1454.1723347546908)
+[17:49:04] [Server thread/INFO]: D3rFisch joined the game
+[17:57:16] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[17:57:16] [Server thread/INFO]: D3rFisch left the game
+[17:58:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:40:41] [User Authenticator #2/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[18:40:43] [Server thread/INFO]: D3rFisch[/192.168.178.20:65299] logged in with entity id 2573 at (922.1861653586335, 83.0, 1533.5084651359714)
+[18:40:43] [Server thread/INFO]: D3rFisch joined the game
+[18:43:47] [Server thread/INFO]: Villager dcx['Villager'/2545, l='ServerLevel[world]', x=870.74, y=108.00, z=1517.51] died, message: 'Villager suffocated in a wall'
+[18:52:59] [Server thread/INFO]: Villager dcx['Villager'/2617, l='ServerLevel[world]', x=859.30, y=97.00, z=1486.53] died, message: 'Villager was slain by Zombie'
+[18:53:43] [User Authenticator #3/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[18:53:47] [Server thread/INFO]: Jaiily[/[2001:9e8:459e:d700:94f8:4a7c:214c:3302]:64550] logged in with entity id 6677 at (1992.300000011921, 65.0, -2366.662856344402)
+[18:53:47] [Server thread/INFO]: Jaiily joined the game
+[18:53:51] [Server thread/INFO]: <Jaiily> Moin
+[18:53:55] [Server thread/INFO]: <D3rFisch> moooiin
+[19:03:15] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[19:03:15] [Server thread/INFO]: D3rFisch left the game
+[19:03:20] [User Authenticator #4/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[19:03:22] [Server thread/INFO]: D3rFisch[/192.168.178.20:65446] logged in with entity id 10951 at (1006.999042225245, 65.0, 1535.8494930190395)
+[19:03:22] [Server thread/INFO]: D3rFisch joined the game
+[19:12:26] [Server thread/INFO]: Villager dcx['Farmer'/10974, l='ServerLevel[world]', x=952.30, y=74.88, z=1491.70] died, message: 'Farmer was slain by Zombie'
+[19:15:06] [Server thread/INFO]: Villager dcx['Farmer'/11050, l='ServerLevel[world]', x=852.39, y=77.92, z=1466.38] died, message: 'Farmer was slain by Zombie'
