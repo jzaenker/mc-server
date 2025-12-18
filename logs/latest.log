@@ -36,3 +36,14 @@
 [19:03:22] [Server thread/INFO]: D3rFisch joined the game
 [19:12:26] [Server thread/INFO]: Villager dcx['Farmer'/10974, l='ServerLevel[world]', x=952.30, y=74.88, z=1491.70] died, message: 'Farmer was slain by Zombie'
 [19:15:06] [Server thread/INFO]: Villager dcx['Farmer'/11050, l='ServerLevel[world]', x=852.39, y=77.92, z=1466.38] died, message: 'Farmer was slain by Zombie'
+[19:51:49] [Server thread/INFO]: Jaiily lost connection: Disconnected
+[19:51:49] [Server thread/INFO]: Jaiily left the game
+[19:51:54] [User Authenticator #5/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[19:51:58] [Server thread/INFO]: Jaiily[/[2001:9e8:459e:d700:94f8:4a7c:214c:3302]:59532] logged in with entity id 31361 at (1994.7008521612534, 62.875, -2365.045837959271)
+[19:51:58] [Server thread/INFO]: Jaiily joined the game
+[20:08:12] [Server thread/INFO]: Villager dcx['Villager'/31578, l='ServerLevel[world]', x=852.85, y=76.00, z=1468.29] died, message: 'Villager was slain by Zombie'
+[20:18:42] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[20:18:42] [Server thread/INFO]: D3rFisch left the game
+[20:42:55] [Server thread/INFO]: Jaiily lost connection: Disconnected
+[20:42:55] [Server thread/INFO]: Jaiily left the game
+[20:43:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
