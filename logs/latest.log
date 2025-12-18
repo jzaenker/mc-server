@@ -12,3 +12,13 @@
 [13:36:46] [User Authenticator #36/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
 [13:36:49] [Server thread/INFO]: D3rFisch[/192.168.178.20:55517] logged in with entity id 639896 at (895.0783565324972, 83.9375, 1523.354027516127)
 [13:36:49] [Server thread/INFO]: D3rFisch joined the game
+[13:50:04] [Server thread/INFO]: D3rFisch has made the advancement [The Parrots and the Bats]
+[13:56:21] [Server thread/INFO]: Villager dcx['Farmer'/643001, l='ServerLevel[world]', x=874.18, y=106.00, z=1517.39] died, message: 'Farmer was slain by Zombie'
+[14:09:37] [Server thread/INFO]: Villager dcx['Mason'/642974, l='ServerLevel[world]', x=927.77, y=83.83, z=1533.77] died, message: 'Mason was slain by D3rFisch'
+[14:09:49] [Server thread/INFO]: Villager dcx['Villager'/646597, l='ServerLevel[world]', x=914.08, y=83.00, z=1542.50] died, message: 'Villager was slain by D3rFisch'
+[14:09:55] [Server thread/INFO]: Villager dcx['Farmer'/642964, l='ServerLevel[world]', x=891.99, y=84.00, z=1520.63] died, message: 'Farmer was slain by D3rFisch'
+[14:14:19] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[14:14:19] [Server thread/INFO]: D3rFisch left the game
+[14:14:23] [User Authenticator #37/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[14:14:26] [Server thread/INFO]: D3rFisch[/192.168.178.20:57742] logged in with entity id 649855 at (907.0684547817447, 69.0, 1455.7407619960925)
+[14:14:26] [Server thread/INFO]: D3rFisch joined the game
