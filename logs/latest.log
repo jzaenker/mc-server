@@ -102,3 +102,6 @@
 [19:03:48] [Server thread/INFO]: Villager dcx['Villager'/198998, l='ServerLevel[world]', x=1102.10, y=63.49, z=-1650.77] died, message: 'Villager was squished too much'
 [19:04:40] [Server thread/INFO]: Villager dcx['Villager'/201766, l='ServerLevel[world]', x=1102.16, y=63.47, z=-1650.82] died, message: 'Villager was squished too much'
 [19:41:08] [Server thread/INFO]: Villager dcx['Villager'/188515, l='ServerLevel[world]', x=1102.28, y=63.42, z=-1650.86] died, message: 'Villager was squished too much'
+[19:56:11] [Server thread/INFO]: Jaiily lost connection: Disconnected
+[19:56:11] [Server thread/INFO]: Jaiily left the game
+[19:57:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
