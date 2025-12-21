@@ -49,3 +49,12 @@
 [12:44:30] [User Authenticator #18/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
 [12:44:34] [Server thread/INFO]: Jaiily[/[2001:9e8:45bf:cf00:d9fe:9927:5af1:8445]:61333] logged in with entity id 141599 at (1173.8554242506007, 66.0, -1608.8969636162137)
 [12:44:34] [Server thread/INFO]: Jaiily joined the game
+[12:51:11] [Server thread/INFO]: Villager dcx['Villager'/141682, l='ServerLevel[world]', x=1102.11, y=63.51, z=-1650.72] died, message: 'Villager was squished too much'
+[12:53:43] [Server thread/INFO]: Villager dcx['Villager'/141683, l='ServerLevel[world]', x=1102.13, y=63.38, z=-1650.68] died, message: 'Villager was squished too much'
+[13:00:50] [Server thread/INFO]: Villager dcx['Villager'/141672, l='ServerLevel[world]', x=1102.39, y=63.19, z=-1650.82] died, message: 'Villager was squished too much'
+[13:02:04] [Server thread/INFO]: Villager dcx['Villager'/141646, l='ServerLevel[world]', x=1102.70, y=63.18, z=-1650.30] died, message: 'Villager was squished too much'
+[13:02:29] [Server thread/INFO]: Villager dcx['Villager'/141673, l='ServerLevel[world]', x=1102.13, y=63.39, z=-1650.88] died, message: 'Villager was squished too much'
+[13:16:53] [Server thread/INFO]: Villager dcx['Villager'/141677, l='ServerLevel[world]', x=1102.11, y=63.40, z=-1650.84] died, message: 'Villager was squished too much'
+[13:35:49] [Server thread/INFO]: Villager dcx['Villager'/141678, l='ServerLevel[world]', x=1102.30, y=63.52, z=-1650.89] died, message: 'Villager was squished too much'
+[13:38:28] [Server thread/INFO]: Villager dcx['Villager'/141674, l='ServerLevel[world]', x=1102.11, y=63.56, z=-1650.90] died, message: 'Villager was squished too much'
+[13:43:35] [Server thread/INFO]: Villager dcx['Villager'/141662, l='ServerLevel[world]', x=1102.70, y=63.13, z=-1650.30] died, message: 'Villager was squished too much'
