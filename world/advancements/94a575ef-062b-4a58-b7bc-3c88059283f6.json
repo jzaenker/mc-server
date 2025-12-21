@@ -7,25 +7,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-12-21 16:02:49 +0000",
+      "minecraft:forest": "2025-12-12 08:21:56 +0000",
+      "minecraft:taiga": "2025-12-21 15:59:52 +0000",
+      "minecraft:lush_caves": "2025-12-14 09:34:11 +0000",
+      "minecraft:desert": "2025-12-12 18:04:36 +0000",
+      "minecraft:jungle": "2025-12-12 15:17:17 +0000",
+      "minecraft:ocean": "2025-12-12 16:48:57 +0000",
+      "minecraft:cherry_grove": "2025-12-21 16:16:18 +0000",
+      "minecraft:birch_forest": "2025-12-12 15:06:59 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-12-21 16:02:22 +0000",
+      "minecraft:wooded_badlands": "2025-12-13 22:46:50 +0000",
+      "minecraft:windswept_savanna": "2025-12-13 22:52:38 +0000",
       "minecraft:savanna_plateau": "2025-12-12 16:24:15 +0000",
       "minecraft:beach": "2025-12-12 15:18:22 +0000",
       "minecraft:dark_forest": "2025-12-12 16:40:29 +0000",
       "minecraft:stony_peaks": "2025-12-12 16:34:51 +0000",
-      "minecraft:forest": "2025-12-12 08:21:56 +0000",
       "minecraft:mangrove_swamp": "2025-12-13 22:53:37 +0000",
       "minecraft:sparse_jungle": "2025-12-12 15:15:05 +0000",
       "minecraft:river": "2025-12-12 15:13:37 +0000",
       "minecraft:stony_shore": "2025-12-12 15:01:22 +0000",
-      "minecraft:lush_caves": "2025-12-14 09:34:11 +0000",
+      "minecraft:dripstone_caves": "2025-12-21 16:08:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-12-12 15:06:58 +0000",
-      "minecraft:desert": "2025-12-12 18:04:36 +0000",
-      "minecraft:jungle": "2025-12-12 15:17:17 +0000",
-      "minecraft:ocean": "2025-12-12 16:48:57 +0000",
       "minecraft:grove": "2025-12-12 16:42:42 +0000",
-      "minecraft:birch_forest": "2025-12-12 15:06:59 +0000",
+      "minecraft:meadow": "2025-12-21 16:08:08 +0000",
       "minecraft:savanna": "2025-12-12 16:22:35 +0000",
-      "minecraft:wooded_badlands": "2025-12-13 22:46:50 +0000",
-      "minecraft:windswept_savanna": "2025-12-13 22:52:38 +0000",
       "minecraft:plains": "2025-12-12 15:01:20 +0000",
       "minecraft:pale_garden": "2025-12-12 16:42:49 +0000"
     },
@@ -3078,6 +3084,60 @@
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-12-21 11:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-12-21 16:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-12-21 16:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-12-21 16:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2025-12-21 16:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-12-21 16:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-12-21 16:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-12-21 16:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-12-21 16:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-12-21 16:22:46 +0000"
     },
     "done": true
   },

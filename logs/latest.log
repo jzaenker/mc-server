@@ -74,3 +74,12 @@
 [15:36:29] [Server thread/INFO]: Villager dcx['Villager'/159936, l='ServerLevel[world]', x=1102.12, y=63.45, z=-1650.86] died, message: 'Villager was squished too much'
 [15:39:33] [Server thread/INFO]: Villager dcx['Villager'/156196, l='ServerLevel[world]', x=1102.70, y=63.97, z=-1650.90] died, message: 'Villager was squished too much'
 [15:43:54] [Server thread/INFO]: Villager dcx['Villager'/150433, l='ServerLevel[world]', x=1102.11, y=63.39, z=-1650.86] died, message: 'Villager was squished too much'
+[15:49:10] [Server thread/INFO]: Villager dcx['Villager'/153043, l='ServerLevel[world]', x=1102.14, y=63.41, z=-1650.89] died, message: 'Villager was squished too much'
+[15:53:14] [User Authenticator #19/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[15:53:16] [Server thread/INFO]: D3rFisch[/192.168.178.20:51767] logged in with entity id 169493 at (925.3000000119209, 62.9375, 1456.699999988079)
+[15:53:16] [Server thread/INFO]: D3rFisch joined the game
+[15:53:40] [Server thread/INFO]: <D3rFisch> tachchen nochmals
+[16:39:01] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[16:39:01] [Server thread/INFO]: D3rFisch left the game
+[16:39:58] [Server thread/INFO]: Villager dcx['Villager'/163446, l='ServerLevel[world]', x=1102.13, y=63.41, z=-1650.85] died, message: 'Villager was squished too much'
+[16:41:54] [Server thread/INFO]: Villager dcx['Villager'/144020, l='ServerLevel[world]', x=1102.12, y=63.39, z=-1650.88] died, message: 'Villager was squished too much'
