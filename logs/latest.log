@@ -1,44 +1,6 @@
-[08:05:38] [User Authenticator #6/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
-[08:05:41] [Server thread/INFO]: D3rFisch[/192.168.178.20:60049] logged in with entity id 44439 at (929.4008425910956, 85.0, 1531.9093116892213)
-[08:05:41] [Server thread/INFO]: D3rFisch joined the game
-[08:11:51] [Server thread/INFO]: Villager dcx['Librarian'/44517, l='ServerLevel[world]', x=850.39, y=77.25, z=1501.77] died, message: 'Librarian was slain by Zombie'
-[08:45:56] [Server thread/INFO]: Villager dcx['Villager'/54958, l='ServerLevel[world]', x=925.15, y=62.94, z=1456.49] died, message: 'Villager was slain by Zombie'
-[08:46:16] [Server thread/INFO]: Villager dcx['Librarian'/44467, l='ServerLevel[world]', x=925.48, y=63.00, z=1453.42] died, message: 'Librarian was slain by Zombie Villager'
-[08:47:25] [Server thread/INFO]: Villager dcx['Farmer'/44512, l='ServerLevel[world]', x=860.30, y=95.00, z=1485.35] died, message: 'Farmer was slain by Zombie'
-[08:59:43] [Server thread/INFO]: D3rFisch has reached the goal [Zombie Doctor]
-[09:08:46] [Server thread/INFO]: Villager dcx['Villager'/44452, l='ServerLevel[world]', x=865.30, y=78.00, z=1516.30] died, message: 'Villager was slain by Zombie'
-[09:09:00] [Server thread/INFO]: D3rFisch was slain by Enderman
-[09:09:05] [Server thread/INFO]: Villager dcx['Farmer'/63188, l='ServerLevel[world]', x=863.08, y=80.00, z=1516.30] died, message: 'Farmer was slain by Zombie Villager'
-[09:09:06] [Server thread/INFO]: Villager dcx['Villager'/44459, l='ServerLevel[world]', x=859.05, y=85.00, z=1515.64] died, message: 'Villager was slain by Zombie'
-[09:22:09] [Server thread/INFO]: D3rFisch lost connection: Disconnected
-[09:22:09] [Server thread/INFO]: D3rFisch left the game
-[09:23:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[09:48:05] [User Authenticator #7/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
-[09:48:10] [Server thread/INFO]: Jaiily[/[2001:9e8:45a9:1300:1d7:cfd7:9a8e:b0bd]:55583] logged in with entity id 66610 at (1993.300000011921, 63.0, -2362.300000011921)
-[09:48:10] [Server thread/INFO]: Jaiily joined the game
-[10:08:58] [Server thread/INFO]: Jaiily has made the advancement [What a Deal!]
-[10:16:08] [Server thread/INFO]: Villager dcx['Farmer'/75695, l='ServerLevel[world]', x=943.37, y=64.00, z=1462.49] died, message: 'Farmer was slain by Zombie'
-[10:48:56] [Server thread/INFO]: Jaiily lost connection: Disconnected
-[10:48:56] [Server thread/INFO]: Jaiily left the game
-[10:49:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:02:48] [User Authenticator #8/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
-[11:02:54] [Server thread/INFO]: Jaiily[/[2001:9e8:45a9:1300:1d7:cfd7:9a8e:b0bd]:51086] logged in with entity id 83764 at (1175.1333469389588, 66.0, -1615.1126593582658)
-[11:02:54] [Server thread/INFO]: Jaiily joined the game
-[11:03:04] [Server thread/INFO]: Jaiily lost connection: Disconnected
-[11:03:04] [Server thread/INFO]: Jaiily left the game
-[11:04:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:11:21] [User Authenticator #9/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
-[16:11:24] [Server thread/INFO]: D3rFisch[/192.168.178.20:59280] logged in with entity id 84116 at (916.5, 83.0, 1527.5)
-[16:11:24] [Server thread/INFO]: D3rFisch joined the game
-[16:33:55] [Server thread/INFO]: Villager dcx['Villager'/84818, l='ServerLevel[world]', x=1000.54, y=65.00, z=1525.66] died, message: 'Villager was slain by D3rFisch'
-[16:34:07] [Server thread/INFO]: Villager dcx['Librarian'/84136, l='ServerLevel[world]', x=1009.30, y=62.00, z=1531.49] died, message: 'Librarian was slain by D3rFisch'
-[16:36:12] [Server thread/INFO]: Villager dcx['Armorer'/84215, l='ServerLevel[world]', x=1056.78, y=65.81, z=1529.10] died, message: 'Armorer was slain by D3rFisch'
-[16:36:21] [Server thread/INFO]: D3rFisch lost connection: Disconnected
-[16:36:21] [Server thread/INFO]: D3rFisch left the game
-[16:37:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:45:15] [User Authenticator #10/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
-[19:45:22] [Server thread/INFO]: Jaiily[/[2001:9e8:45a9:1300:1d7:cfd7:9a8e:b0bd]:62571] logged in with entity id 92570 at (1175.6928192436121, 66.0, -1615.7130955110606)
-[19:45:22] [Server thread/INFO]: Jaiily joined the game
-[19:47:10] [Server thread/INFO]: Jaiily lost connection: Disconnected
-[19:47:10] [Server thread/INFO]: Jaiily left the game
-[19:48:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:57:18] [User Authenticator #11/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
+[08:57:21] [Server thread/INFO]: D3rFisch[/192.168.178.20:52131] logged in with entity id 93247 at (1061.136620174084, 65.5, 1528.3486194787902)
+[08:57:21] [Server thread/INFO]: D3rFisch joined the game
+[09:14:39] [Server thread/INFO]: D3rFisch lost connection: Disconnected
+[09:14:39] [Server thread/INFO]: D3rFisch left the game
+[09:15:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
