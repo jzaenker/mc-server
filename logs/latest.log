@@ -16,3 +16,7 @@
 [15:29:35] [Server thread/INFO]: Jaiily lost connection: Disconnected
 [15:29:35] [Server thread/INFO]: Jaiily left the game
 [15:30:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:03:31] [User Authenticator #23/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[16:03:35] [Server thread/INFO]: Jaiily[/[2001:9e8:45af:5d00:fd5a:b37b:47ff:73a5]:64020] logged in with entity id 242602 at (1145.42041382027, 63.0, -1452.958069698895)
+[16:03:35] [Server thread/INFO]: Jaiily joined the game
+[16:34:09] [Server thread/INFO]: Villager dcx['Villager'/242769, l='ServerLevel[world]', x=1102.19, y=63.41, z=-1650.89] died, message: 'Villager was squished too much'
