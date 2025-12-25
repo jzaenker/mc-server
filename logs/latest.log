@@ -41,3 +41,10 @@
 [19:33:47] [Server thread/INFO]: Villager dcx['Villager'/260720, l='ServerLevel[world]', x=1102.15, y=63.40, z=-1650.85] died, message: 'Villager was squished too much'
 [19:49:42] [Server thread/INFO]: Villager dcx['Villager'/253742, l='ServerLevel[world]', x=1121.20, y=64.19, z=-1641.72] died, message: 'Villager was slain by Zombie'
 [19:49:48] [Server thread/INFO]: Villager dcx['Fletcher'/253743, l='ServerLevel[world]', x=1120.76, y=64.19, z=-1642.39] died, message: 'Fletcher was slain by Zombie Villager'
+[19:52:31] [Server thread/INFO]: Villager dcx['Villager'/271636, l='ServerLevel[world]', x=1102.18, y=63.34, z=-1650.87] died, message: 'Villager was squished too much'
+[19:55:53] [Server thread/INFO]: Jaiily lost connection: Disconnected
+[19:55:53] [Server thread/INFO]: Jaiily left the game
+[19:55:58] [User Authenticator #24/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[19:56:02] [Server thread/INFO]: Jaiily[/[2001:9e8:45af:5d00:fd5a:b37b:47ff:73a5]:56642] logged in with entity id 280833 at (1174.5496317947634, 66.0, -1619.4106916512385)
+[19:56:02] [Server thread/INFO]: Jaiily joined the game
+[20:47:05] [Server thread/INFO]: Villager dcx['Villager'/280889, l='ServerLevel[world]', x=1102.13, y=63.33, z=-1650.89] died, message: 'Villager was squished too much'
