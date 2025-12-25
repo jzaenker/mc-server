@@ -4,3 +4,15 @@
 [14:38:28] [Server thread/INFO]: Villager dcx['Villager'/230593, l='ServerLevel[world]', x=1102.70, y=63.17, z=-1650.30] died, message: 'Villager was squished too much'
 [14:38:54] [Server thread/INFO]: Villager dcx['Villager'/230618, l='ServerLevel[world]', x=1102.51, y=63.46, z=-1650.90] died, message: 'Villager was squished too much'
 [14:39:14] [Server thread/INFO]: Villager dcx['Villager'/230614, l='ServerLevel[world]', x=1102.17, y=63.42, z=-1650.84] died, message: 'Villager was squished too much'
+[14:52:03] [Server thread/INFO]: Villager dcx['Villager'/234814, l='ServerLevel[world]', x=1102.14, y=63.42, z=-1650.82] died, message: 'Villager was squished too much'
+[15:11:11] [Server thread/INFO]: Jaiily lost connection: Disconnected
+[15:11:11] [Server thread/INFO]: Jaiily left the game
+[15:12:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:17:18] [User Authenticator #22/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[15:17:34] [Server thread/INFO]: Jaiily[/[2001:9e8:45af:5d00:fd5a:b37b:47ff:73a5]:62808] logged in with entity id 240123 at (1015.1161153904279, 68.0, -1628.8760930651717)
+[15:17:34] [Server thread/INFO]: Jaiily joined the game
+[15:18:20] [Server thread/INFO]: Villager dcx['Villager'/240167, l='ServerLevel[world]', x=1102.70, y=63.24, z=-1650.30] died, message: 'Villager was squished too much'
+[15:23:55] [Server thread/INFO]: Jaiily has made the advancement [Voluntary Exile]
+[15:29:35] [Server thread/INFO]: Jaiily lost connection: Disconnected
+[15:29:35] [Server thread/INFO]: Jaiily left the game
+[15:30:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
