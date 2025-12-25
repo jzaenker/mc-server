@@ -1,8 +1,6 @@
-[08:32:09] [User Authenticator #20/INFO]: UUID of player D3rFisch is 94a575ef-062b-4a58-b7bc-3c88059283f6
-[08:32:11] [Server thread/INFO]: D3rFisch[/192.168.178.20:55913] logged in with entity id 222625 at (916.1900843507743, 83.0, 1530.3653908899269)
-[08:32:11] [Server thread/INFO]: D3rFisch joined the game
-[08:33:44] [Server thread/INFO]: Villager dcx['Villager'/223329, l='ServerLevel[world]', x=118.51, y=119.00, z=156.89] died, message: 'Villager was slain by D3rFisch'
-[08:33:50] [Server thread/INFO]: Villager dcx['Villager'/223331, l='ServerLevel[world]', x=118.48, y=119.00, z=188.21] died, message: 'Villager was slain by D3rFisch'
-[08:36:37] [Server thread/INFO]: D3rFisch lost connection: Disconnected
-[08:36:37] [Server thread/INFO]: D3rFisch left the game
-[08:37:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:19:33] [User Authenticator #21/INFO]: UUID of player Jaiily is e454fc13-f6a4-4eef-8e01-46e761062c7c
+[14:19:40] [Server thread/INFO]: Jaiily[/[2001:9e8:45af:5d00:fd5a:b37b:47ff:73a5]:58155] logged in with entity id 225059 at (1174.4595305362475, 66.0, -1614.5381689519643)
+[14:19:40] [Server thread/INFO]: Jaiily joined the game
+[14:38:28] [Server thread/INFO]: Villager dcx['Villager'/230593, l='ServerLevel[world]', x=1102.70, y=63.17, z=-1650.30] died, message: 'Villager was squished too much'
+[14:38:54] [Server thread/INFO]: Villager dcx['Villager'/230618, l='ServerLevel[world]', x=1102.51, y=63.46, z=-1650.90] died, message: 'Villager was squished too much'
+[14:39:14] [Server thread/INFO]: Villager dcx['Villager'/230614, l='ServerLevel[world]', x=1102.17, y=63.42, z=-1650.84] died, message: 'Villager was squished too much'
