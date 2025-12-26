@@ -454,6 +454,7 @@
       "minecraft:blaze": "2025-12-13 19:41:08 +0000",
       "minecraft:pillager": "2025-12-25 15:23:55 +0000",
       "minecraft:skeleton": "2025-12-13 11:11:42 +0000",
+      "minecraft:witch": "2025-12-26 15:44:17 +0000",
       "minecraft:wither_skeleton": "2025-12-13 19:41:50 +0000",
       "minecraft:ghast": "2025-12-13 14:51:43 +0000",
       "minecraft:hoglin": "2025-12-13 14:12:54 +0000",
@@ -3126,6 +3127,24 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-12-25 15:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-12-26 15:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-12-26 15:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-12-26 15:05:09 +0000"
     },
     "done": true
   },
